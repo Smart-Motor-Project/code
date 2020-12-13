@@ -1,0 +1,10 @@
+C:\Users\msjen\source\repos\SmartMotorGUI\SmartMotorGUI\bin\Debug\SmartMotorGUI.exe.config
+C:\Users\msjen\source\repos\SmartMotorGUI\SmartMotorGUI\bin\Debug\SmartMotorGUI.exe
+C:\Users\msjen\source\repos\SmartMotorGUI\SmartMotorGUI\bin\Debug\SmartMotorGUI.pdb
+C:\Users\msjen\source\repos\SmartMotorGUI\SmartMotorGUI\obj\Debug\SmartMotorGUI.csprojAssemblyReference.cache
+C:\Users\msjen\source\repos\SmartMotorGUI\SmartMotorGUI\obj\Debug\SmartMotorGUI.Form1.resources
+C:\Users\msjen\source\repos\SmartMotorGUI\SmartMotorGUI\obj\Debug\SmartMotorGUI.Properties.Resources.resources
+C:\Users\msjen\source\repos\SmartMotorGUI\SmartMotorGUI\obj\Debug\SmartMotorGUI.csproj.GenerateResource.cache
+C:\Users\msjen\source\repos\SmartMotorGUI\SmartMotorGUI\obj\Debug\SmartMotorGUI.csproj.CoreCompileInputs.cache
+C:\Users\msjen\source\repos\SmartMotorGUI\SmartMotorGUI\obj\Debug\SmartMotorGUI.exe
+C:\Users\msjen\source\repos\SmartMotorGUI\SmartMotorGUI\obj\Debug\SmartMotorGUI.pdb
